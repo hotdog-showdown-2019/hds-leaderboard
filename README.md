@@ -4,6 +4,10 @@ Official Hot Dog Showdown 2019 System Repository done using ReactJS and Material
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Paste the below code in RUn to disable CORS Check in Chrome
+### `chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security` 
+
+## Available Scripts
 
 In the project directory, you can run:
 
